@@ -1,0 +1,174 @@
+{
+  "account": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "jhon@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "2",
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "password": 1234
+    },
+    {
+      "id": "3",
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": 1234
+    }
+  ],
+  "zone": [
+    {
+      "name": "U S A",
+      "description": "Sed reiciendis autem",
+      "status": "Disable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "id": "accb"
+    },
+    {
+      "name": "U S ",
+      "description": "Dolorem suscipit eni",
+      "status": "Disable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "id": "af91"
+    },
+    {
+      "name": "Canada",
+      "description": "Animi ut velit ab ",
+      "status": "Disable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "id": "a2b9"
+    },
+    {
+      "name": "Paris",
+      "description": "Et sunt officiis si",
+      "status": "Disable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "id": "cd40"
+    },
+    {
+      "id": "bef2",
+      "name": "Mumbai",
+      "description": "wss",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": ""
+    },
+    {
+      "id": "68b7",
+      "name": "sidhpur",
+      "description": "sqsq",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": ""
+    },
+    {
+      "id": "6b7a",
+      "name": "vadodara",
+      "description": "Molestiae enim sint ",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": ""
+    },
+    {
+      "name": "goa",
+      "description": "Soluta voluptatem C",
+      "status": "Enable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "id": "9684"
+    },
+    {
+      "name": "noida",
+      "description": "Facilis omnis iure a",
+      "status": "Enable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "id": "ff7f"
+    },
+    {
+      "id": "258b",
+      "name": "kerala",
+      "description": "Quia commodi eligend",
+      "status": "Disable",
+      "created_by": "jack@gmail.com",
+      "updated_by": ""
+    },
+    {
+      "id": "cfbd",
+      "name": "shimla",
+      "description": "sddd",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": ""
+    },
+    {
+      "id": "e2d2",
+      "name": "jammu & kasmir",
+      "description": "dsfgfvfdv",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": ""
+    },
+    {
+      "id": "23b0",
+      "name": "italy",
+      "description": "Labore deserunt ut f",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": ""
+    },
+    {
+      "name": "London",
+      "description": "Non et vel perspicia",
+      "status": "Enable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "id": "ebaf"
+    }
+  ],
+  "Node": [
+    {
+      "id": "2f59",
+      "name": "khali",
+      "description": "Ex eaque magnam est",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": "",
+      "zone": "sidhpur"
+    },
+    {
+      "name": "Gillian Alvarez",
+      "description": "Quibusdam officiis f",
+      "status": "Enable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "zone": "Mumbai",
+      "id": "e7e2"
+    },
+    {
+      "name": "Quon Alexander",
+      "description": "Officiis laboriosam",
+      "status": "Enable",
+      "updated_by": "jack@gmail.com",
+      "created_by": "jack@gmail.com",
+      "zone": "sidhpur",
+      "id": "c6e0"
+    },
+    {
+      "id": "92d0",
+      "name": "Nola Sims",
+      "description": "Aut ad cillum anim a",
+      "status": "Enable",
+      "created_by": "jack@gmail.com",
+      "updated_by": "",
+      "zone": "Mumbai"
+    }
+  ]
+}
